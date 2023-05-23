@@ -1,0 +1,23 @@
+Boilerplate
+HTML tags - table, caption, thead, tbody, tfoot, tr, th, td
+HTML attributes - colspan
+
+CSS properties
+body - font-family
+caption - font-size, margin-bottom
+table, th, td - border, border-collapse, padding
+table - border, width (30%)
+thead - background-color: #879961, color: white
+.center text-align
+.total-price - text-align, font-weight
+.item-name - text-align
+tbody tr:nth-child(even) - background-color: #dcdcdc
+
+Extras
+Put table in center
+
+References
+https://www.w3schools.com/tags/tag_colgroup.asp
+https://taimoorsattar.com/blogs/table-on-webpage
+
+
